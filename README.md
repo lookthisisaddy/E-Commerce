@@ -1,6 +1,8 @@
 # E-Commerce Website 
 
-E-commerce website created by leveraging React, Tailwind CSS, and Material-UI design principles and methodologies.
+A full-stack e-commerce website with React.js for the front-end and Spring Boot for the back-end, ensuring a seamless user experience from shopping to order tracking.
+
+Implemented a secure authentication system using Spring Security and JWT, and integrated Razorpay as the payment gateway for streamlined and secure online transactions.
 
 ### Screenshots
 
