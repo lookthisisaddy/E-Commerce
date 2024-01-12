@@ -19,12 +19,12 @@ export const CartItem = () => {
           <p className="opacity-70">Size: L,White</p>
           <p className="opacity-70 mt-2">Seller: Chritina Fashion</p>
           <div className="flex space-x-2 items-center pt-3">
-            <p className="opacity-50 line-through">₹199</p>
+            <p className="opacity-50 line-through">₹398</p>
             <p className="font-semibold text-lg">
-              ₹252
+              ₹350
             </p>
             <p className="text-green-600 font-semibold">
-              5% off
+              12% off
             </p>
           </div>
         </div>

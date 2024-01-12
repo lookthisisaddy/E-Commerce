@@ -7,7 +7,7 @@ const AdressCard = () => {
         <p className="font-semibold">Aditya Singh</p>
 
         <p>
-         Flat 502, Shree Ganesh Darshan, 410020
+         Flat 212, Gokul Dham Society, Goregaon, Mumbai
         </p>
 
         <div className="space-y-1">

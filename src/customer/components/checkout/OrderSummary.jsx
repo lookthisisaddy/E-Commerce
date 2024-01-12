@@ -36,7 +36,7 @@ const OrderSummary = () => {
               <hr />
               <div className="flex justify-between font-bold text-lg">
                 <span>Total Amount</span>
-                <span className="text-green-700">₹255</span>
+                <span className="text-green-700">₹350</span>
               </div>
             </div>
 

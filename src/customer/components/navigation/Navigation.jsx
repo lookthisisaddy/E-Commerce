@@ -221,8 +221,8 @@ export default function Navigation() {
               <div className="ml-4 flex lg:ml-0">
                   <span className="sr-only">Your Company</span>
                   <img
-                    src="https://res.cloudinary.com/ddkso1wxi/image/upload/v1675919455/Logo/Copy_of_Zosh_Academy_nblljp.png"
-                    alt="Shopwithzosh"
+                    src="https://cdn.pixabay.com/photo/2015/12/23/01/14/edit-1105049_1280.png"
+                    alt="ShopWithAdi"
                     className="h-8 w-8 mr-2"
                   />
               </div>
